@@ -23,6 +23,18 @@ A robust, enterprise-grade Full-Stack application designed to streamline workflo
 
 ---
 
+## 📸 Project Visuals
+
+### Hyundai Flux Dashboard
+<img src="hyundai-project.png" alt="Hyundai Project Dashboard" width="100%"/>
+
+---
+
+### System Interface & Operations
+<img src="hotesse.png" alt="Hotesse Interface" width="100%"/>
+
+
+
 ### 📂 Directory Structure
 
 ```text
